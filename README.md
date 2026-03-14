@@ -1,5 +1,7 @@
 **# ✈ Airline Passenger Insights**
 
+&#x20;**Milestone 3 Pull Request Submission**
+
 
 
 **## Project Overview**
@@ -14,13 +16,13 @@
 
 
 
-**• Analyze passenger age distribution**  
+**• Analyze passenger age distribution**
 
-**• Explore flight status patterns**  
+**• Explore flight status patterns**
 
-**• Identify busiest airports**  
+**• Identify busiest airports**
 
-**• Build an interactive dashboard**  
+**• Build an interactive dashboard**
 
 
 
@@ -28,15 +30,15 @@
 
 
 
-**Python**  
+**Python**
 
-**Pandas**  
+**Pandas**
 
-**Matplotlib**  
+**Matplotlib**
 
-**Seaborn**  
+**Seaborn**
 
-**Streamlit**  
+**Streamlit**
 
 
 
@@ -44,13 +46,13 @@
 
 
 
-**Data Collection**  
+**Data Collection**
 
-**Data Cleaning**  
+**Data Cleaning**
 
-**Exploratory Data Analysis**  
+**Exploratory Data Analysis**
 
-**Visualization**  
+**Visualization**
 
 **Dashboard Development**
 
